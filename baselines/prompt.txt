@@ -1,0 +1,14 @@
+Label the Persuasion Strategy for the Utterances in Dialogues during Social Deduction Game. Do not hesitate to select multiple strategies if one category can not summarize the given utterance.
+
+Strategy Definition:
+
+1. Identity Declaration: State one's own role or identity in the game
+2. Accusation: Claim someone has a specific identity or strategic behavior
+3. Interrogation: Questions about someone's identity or behavior
+4. Call for Action: Encourage people to take an action during the game
+5. Defense: Defending yourself or someone else against an accusation or defending a game-related argument
+6. Evidence: Provide a body of game-related fact or information
+7. No Strategy: Any sentences that do not fall into other categories are here. Clarification or discussion of game rules should also be considered "No-Strategy"
+
+Utterance: "$utterance$"
+Strategy:
