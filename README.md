@@ -1,6 +1,6 @@
 # Werewolf Among Us: Multimodal Resources for Modeling Persuasion Behaviors in Social Deduction Games
 
-This repo contains codes for the following paper: 
+This repo contains codes for the following paper
 
 *Bolin Lai, Hongxin Zhang, Miao Liu, Aryan Pariani, Fiona Ryan, Wenqi Jia, Shirley Anugrah Hayati, James M. Rehg, Diyi Yang*: Werewolf Among Us: Multimodal Resources for Modeling Persuasion Behaviors in Social Deduction Games
 
