@@ -1,24 +1,26 @@
 # Werewolf Among Us: Multimodal Resources for Modeling Persuasion Behaviors in Social Deduction Games
 
-This repo contains codes for the following paper
+### Findings of ACL 2023
 
-*Bolin Lai, Hongxin Zhang, Miao Liu, Aryan Pariani, Fiona Ryan, Wenqi Jia, Shirley Anugrah Hayati, James M. Rehg, Diyi Yang*: Werewolf Among Us: Multimodal Resources for Modeling Persuasion Behaviors in Social Deduction Games
+**The old website for our dataet may be down. You can directly download the dataset via this [link](https://drive.google.com/drive/folders/1N4PymMbKXFzqy3fq4ZGjdrc0oiScV914). Please read *README* in this link for dowload guidance.** 
+
+This repo contains codes for the following paper:
+
+*[Bolin Lai](https://bolinlai.github.io/), Hongxin Zhang, Miao Liu, Aryan Pariani, Fiona Ryan, Wenqi Jia, Shirley Anugrah Hayati, James M. Rehg, Diyi Yang*: Werewolf Among Us: Multimodal Resources for Modeling Persuasion Behaviors in Social Deduction Games
+
+If you find our work is helpful to your research, please use the bibtex below to cite the paper.
+
 
 ```
-@article{lai2022werewolf,
-  title={Werewolf Among Us: A Multimodal Dataset for Modeling Persuasion Behaviors in Social Deduction Games},
-  author={Lai, Bolin and Zhang, Hongxin and Liu, Miao and Pariani, Aryan and Ryan, Fiona and Jia, Wenqi and Hayati, Shirley Anugrah and Rehg, James M and Yang, Diyi},
-  journal={arXiv preprint arXiv:2212.08279},
-  year={2022}
+@inproceedings{lai2023werewolf,
+  title={Werewolf Among Us: Multimodal Resources for Modeling Persuasion Behaviors in Social Deduction Games},
+  author={Lai, Bolin and Zhang, Hongxin and Liu, Miao and Pariani, Aryan and Ryan, Fiona and Jia, Wenqi and Hayati, Shirley Anugrah and Rehg, James and Yang, Diyi},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2023},
+  pages={6570--6588},
+  year={2023}
 }
 ```
 
-If you would like to refer to it, please cite the paper mentioned above. 
-
-
-## Repository Structure
-- **baselines**: Code for baselines
-- **data**: Prepare the data in this folder
 
 ## Usage
 ### Install dependency
