@@ -2,7 +2,7 @@
 
 ### Findings of ACL 2023
 
-**The old website for our dataset is down. You can directly download the dataset on [HuggingFace](https://huggingface.co/datasets/bolinlai/Werewolf-Among-Us). ** 
+**The old website for our dataset is down. You can directly download the dataset on [HuggingFace](https://huggingface.co/datasets/bolinlai/Werewolf-Among-Us).** 
 
 This repo contains codes for the following paper:
 
