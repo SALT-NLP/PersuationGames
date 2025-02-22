@@ -2,11 +2,11 @@
 
 ### Findings of ACL 2023
 
-**The old website for our dataset is down. You can directly download the dataset on [HuggingFace](https://huggingface.co/datasets/bolinlai/Werewolf-Among-Us).** 
+### [Project Page](https://bolinlai.github.io/projects/Werewolf-Among-Us/) | [Paper](https://aclanthology.org/2023.findings-acl.411.pdf) | [Dataset](https://huggingface.co/datasets/bolinlai/Werewolf-Among-Us)
 
-This repo contains codes for the following paper:
+#### [Bolin Lai*](https://bolinlai.github.io/), [Hongxin Zhang*](https://icefoxzhx.github.io/), [Miao Liu*](https://aptx4869lm.github.io/), [Aryan Pariani*](https://scholar.google.com/citations?hl=en&user=EnC_6s0AAAAJ), [Fiona Ryan](https://fkryan.github.io/), [Wenqi Jia](https://vjwq.github.io/), [Shirley Anugrah Hayati](https://www.shirley.id/), [James M. Rehg](https://rehg.org/), [Diyi Yang](https://cs.stanford.edu/~diyiy/)
 
-*[Bolin Lai](https://bolinlai.github.io/), Hongxin Zhang, Miao Liu, Aryan Pariani, Fiona Ryan, Wenqi Jia, Shirley Anugrah Hayati, James M. Rehg, Diyi Yang*: Werewolf Among Us: Multimodal Resources for Modeling Persuasion Behaviors in Social Deduction Games
+**The old website for our dataset is down. Please find more details on our new [project page](https://bolinlai.github.io/projects/Werewolf-Among-Us/) and [HuggingFace](https://huggingface.co/datasets/bolinlai/Werewolf-Among-Us).**
 
 If you find our work is helpful to your research, please use the bibtex below to cite the paper.
 
